@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "clouds-weather-app"
+    }
+  },
+  "defaultProject": "clouds-weather-app",
+  "cli": {
+    "analytics": false
+  }
 }
